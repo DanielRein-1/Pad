@@ -1,0 +1,41 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Maven build output (if applicable)
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+nbproject/
+build/
+
+# Java documentation files
+*.jad
+*.jar
+
+# Temporary files
+*~
+.#*
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local configuration files (if any)
+config.properties
+local.properties
